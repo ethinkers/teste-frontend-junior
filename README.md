@@ -20,7 +20,7 @@ Seu objetivo é criar um simples app que deve conter duas páginas, uma que exib
 
 Para ter o estado inicial da lista de usuário utilizar este recurso abaixo:
 
-> GET https://private-21e8de-rafaellucio.apiary-mock.com/users
+> GET https://private-5e3134-ethinkers.apiary-mock.com/users
 
 Response:
 
@@ -124,7 +124,7 @@ Lista local:
  - Cor da fonte: <span style="color:#eb4a46">*#eb4a46*</span>.
  - Cor da borda: <span style="color:#eb4a46">*#eb4a46*</span>.
 
-![inputs](./images/email_validation.png)
+![inputs](./images/email-validation.png)
 
 ### Botão Habilitado:
  - Cor da fonte com foco: <span style="color:#ffffff">*#ffffff*</span>.
