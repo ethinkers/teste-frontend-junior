@@ -1,3 +1,5 @@
+![ethinkers](./images/top-ethinkers.jpg)
+
 # Teste de Front-end E-thinkers 
 Este teste é apresentado aos candidatos as vagas de desenvolvimento Front-end para avaliar os quesitos técnicos.
 
